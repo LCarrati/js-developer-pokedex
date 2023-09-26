@@ -27,4 +27,6 @@ Meu objetivo com este projeto era praticar o consumo de API, manipulação de da
 ## Experimente a pokedex
 https://lcarrati.github.io/js-developer-pokedex/
 </div>
+
+&nbsp;
 ![preview](./assets/preview.jpg)
