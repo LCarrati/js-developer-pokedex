@@ -1,8 +1,8 @@
 # Pokedex - Javascript
 
 <div align="justify">
-[Live Preview]("https://lcarrati.github.io/js-developer-pokedex/")
 
+**[Live Preview]("https://lcarrati.github.io/js-developer-pokedex/")**
 
 Essa Pokedex lista todos os pokemons e permite que os usuários acessem informações detalhadas sobre todos os Pokémon, desde informações gerais até estatísticas e evoluções.
 Os dados são consumidos diretamente da API 'pokeapi'.
