@@ -7,7 +7,6 @@
 
 body {
     background-color: #fff8dc;
-    /* background-color: white; */
     margin: 0 auto;
     height: 100%;
 }
@@ -17,11 +16,7 @@ body {
     height: 100%;
     padding: 0;
     background-color: #fff;
-    /* overflow: hidden; */
-    /* height: calc(100vh - 32px); */
 }
-
-
 
 .card {
     background: lawngreen;
@@ -120,7 +115,6 @@ li:hover ~ .baseStats {
     font-size: 1.5rem;
     align-items: center;
     justify-items: center;
-    /* margin: 20px 0 0 0; */
     padding: 35px 35px 0;
 }
 
@@ -151,7 +145,6 @@ ul{
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
-        /* height: calc(100vh - 32px); */
         margin: 1rem auto;
         border-radius: 1rem;
     }
